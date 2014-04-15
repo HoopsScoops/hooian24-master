@@ -1,0 +1,20 @@
+1.
+2. These weekly writings will help me process how I feel about the class as a whole throughout the quarter.
+3.I will read it Wendsday for sure.
+4. The relationship "is-a", describes passing a type to an instance or variable, where the relationship "Has-aa",describes sub-bjects, parameters, or meembers of a class.
+5.The state of the software is determined by the field containing parameters and inputs, where the behaviour takes these conditions and applies methods and operations based on their state. Identity can be expressed through the uniqueness in objects and their adress in memory. Each object has a unique adress.
+6. To me the class interface has a "has-a" relationship with an interface through implementation
+7. I believe that the class Indiemusician to Guitar instrument relationship is one of the "has-a" relationships because instrument is a parameter that the class Indiemusician has
+8.## need to read something on this one
+9.Impplements is a keyword that indicates the relationship between an interface and a class.
+10. THrough the java api, java security provides a security framework through classes that implement interfaces,
+11, public void whatBlah() {
+    System.out.println("daaaala la la la");
+}
+12. Interfaces are better in the sense that they can save refactoring time. The programmer can prepare for changes to be made in the future by implementing an interface. Rather than having to rewrite more clumsy code
+13. An interfcace is an abstract type in the java programming language that is used to specify an interface that classes must implement. They are declared using the interface keyword, and may only contain method signature and constant declarations. http://en.wikipedia.org/wiki/Interface_(java)
+
+14. In computer programming an application interface specifies how some software components should interact with each other. It is how to programs that work or communicate in conjunction
+WIndows API is written in C and C++ 
+
+15. Interfaces are usefull because they can provide a means for web-scrapping instead of manually writing the code. If i
